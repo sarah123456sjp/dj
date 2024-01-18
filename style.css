@@ -1,0 +1,31 @@
+.heading{
+width:100%;
+font-size: 20px;
+background-color: black !important;
+border-color: blue !important;
+margin: 0,!important;
+}
+body{
+background-size: 1200px !important;
+}
+.div_speed{
+float: left;
+}
+.div_volume{
+float: right;
+}
+.div_speed_img{
+  width:200px ;
+    }
+.div_volume_img{
+ width:200px ;
+}
+button,#volume,#speed{
+background-color: rgb(0, 153, 255)!important;
+color: black !important;
+border-color:rgb(0, 153, 255)!important;
+}
+canvas{
+border-style: double;
+border-width: 7px;
+}
